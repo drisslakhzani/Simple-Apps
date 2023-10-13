@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    
+}
+.dis{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.box{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.box2{
+    border: 2px solid rgb(143, 37, 37);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
